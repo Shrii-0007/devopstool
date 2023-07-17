@@ -33,5 +33,5 @@ public class index {
 	@GetMapping("/Vinit")
 	public String HelloVinit()
 	{
-		return "Hello, Vinit from Clover Infotech"
+		return "Hello, Vinit from Clover Infotech";
 }
