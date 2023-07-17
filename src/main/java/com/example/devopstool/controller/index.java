@@ -34,4 +34,5 @@ public class index {
 	public String HelloVinit()
 	{
 		return "Hello, Vinit from Clover Infotech";
+	}
 }
