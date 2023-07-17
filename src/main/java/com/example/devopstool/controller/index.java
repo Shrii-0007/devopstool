@@ -29,4 +29,9 @@ public class index {
 	{
 		return "Welcome to Clover Infotech from Devops Team";
 	}
+
+	@GetMapping("/Vinit")
+	public String HelloVinit()
+	{
+		return "Hello, Vinit from Clover Infotech"
 }
